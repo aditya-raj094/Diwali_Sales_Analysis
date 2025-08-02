@@ -20,13 +20,13 @@ This project performs a detailed exploratory data analysis (EDA) of Diwali sales
 |---------------------|----------------------------------------|
 | Data Processing     | Python (Pandas, NumPy)                 |
 | Data Visualization  | Matplotlib, Seaborn                    |
-| Tools               | Jupyter Notebook                       |
+| Notebook            | Jupyter Notebook                       |
 | Formats             | CSV                                    |
 
 ---
 
 
-## 📊 Dashboard Insights
+## 📊 Data Analysis & Visual Insights
 
 ### 📘 Demographic & Geographic Analysis
 
